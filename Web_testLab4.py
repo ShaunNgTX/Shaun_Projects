@@ -5,6 +5,7 @@ from bottle import route, run, template, get, post, request, error, Response
 from collections import Counter
 from operator import itemgetter
 import redis
+#adding something here
 
 backup = ""
 text1 = ""
